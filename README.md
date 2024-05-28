@@ -30,6 +30,10 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> 
     </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="react" width="40" height="40" /> 
+    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
       alt="react" width="40" height="40" /> 
@@ -69,5 +73,6 @@
 <a href="https://github.com/luiselianm">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luiselianm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luiselianm&layout=compact&langs_count=8&theme=algolia"/>
+    <img src="https://streak-stats.demolab.com?user=luiselianm&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=15&date_format=M%20j%5B,%20Y%5D&order=3" height="200" alt="streak graph"  />
 </a>
 </p>
